@@ -15,4 +15,5 @@
 - [Group Signup and Topics](https://docs.google.com/document/d/1XdocCgglrtrGvLvh1wmVDbAsgLItRvXdI-R2sz6mx6Y/edit)
 - [Group 4 Presentation](https://docs.google.com/presentation/d/18xeR_HHAWyjoGonZJlV5xAJOG70J6-A-OWfojW0OOmg/edit?usp=sharing)
 - [Group 4 Meeting Minutes](https://docs.google.com/document/d/1DaA68Fxg8O60jvIrwAThWuSu6YvkYAGohQ2-s9KFJgI/edit?usp=sharing)
+- [Group Meeting Minutes Submission](https://njit.instructure.com/courses/30019/assignments/345439?module_item_id=1126837)
 - ...
