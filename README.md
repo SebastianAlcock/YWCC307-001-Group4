@@ -1,10 +1,10 @@
 # YWCC307-001-Group4
 
 ### Collaborators:
-##### Vanshika Agrawal
-##### Sebastian Alcock
-##### Margaret Klejmont
-##### Ashley Moreiro
+ - Vanshika Agrawal
+ - Sebastian Alcock
+ - Margaret Klejmont
+ - Ashley Moreiro
 
 
 ### Topic 2:
